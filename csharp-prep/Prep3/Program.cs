@@ -5,16 +5,11 @@ class Program
     static void Main(string[] args)
     {
         Random randomGenerator = new Random();
-        int number = randomGenerator.Next(1,20);
-
-    
+        int number = randomGenerator.Next(1,20);    
 
         Console.Write("Guess a number: ");
 
-        int guess = -1;
-        
-
-        
+        int guess = -1;       
 
         while (number != guess)
         {
