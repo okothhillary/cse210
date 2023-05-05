@@ -250,5 +250,14 @@
             "stopAtEntry": false
         },
 
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Run Current File",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+          
+
     ]
 }
