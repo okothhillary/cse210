@@ -8,7 +8,7 @@ class Program
 
         string userInput = "";
 
-        //  STRETCH CHALLENGE
+        //  Exceeding requirements:
             // Load a list of scriptures from a file, display them as a list
             // and let the user choose one to memorise.
             
