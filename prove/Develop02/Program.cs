@@ -43,7 +43,7 @@ class Program
                 journal.SaveFile();             
 
                 Console.WriteLine();
-                Console.WriteLine("Anything other sweet memory to save...(not about your ex's)");
+                Console.WriteLine("Anything other than sweet memory to save...(not about your ex's)");
                 userOption = DisplayMenu();
             }
             else if (userOption == 5){
